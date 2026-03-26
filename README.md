@@ -54,16 +54,3 @@ Statistics degree with a specialization in life sciences and biostatistics, foll
 **Web** — Node.js · REST APIs · WebSockets · Babylon.js  
 **Data** — Statistical modeling · Biostatistics · Relational databases
 
----
-
-*Open to backend, data engineering, or systems roles. Based in Berlin.*
-## Stack
-
-**Languages** — C · C++ · TypeScript · JavaScript · Python · R · SAS · SQL  
-**Systems** — Linux · Docker · NGINX · Bash  
-**Web** — Node.js · REST APIs · WebSockets · Babylon.js  
-**Data** — Clinical trials · Biostatistics · Statistical modeling · Relational databases
-
----
-
-*Open to backend, data engineering, or bioinformatics-adjacent roles. Based in Berlin.*
