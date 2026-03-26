@@ -10,10 +10,10 @@ I'm interested in roles at the intersection of **backend engineering**, **data i
 
 | Project | What I built |
 |---|---|
-| [transcendence](https://github.com/htharrau/transcendence) | Full-stack real-time Pong platform — TypeScript, WebSockets, authentication, live chat — *with [@partner](https://github.com/partner)* |
-| [webserv](https://github.com/htharrau/webserv) | HTTP/1.1 server built from scratch in C++ — GET, POST, DELETE, CGI, config parsing — *with [@partner](https://github.com/partner)* |
-| [inception](https://github.com/htharrau/inception) | Containerized infrastructure — NGINX reverse proxy, WordPress, MariaDB, Redis, all over TLS |
-| [bubar](https://github.com/htharrau/bubar) | Immersive 3D web experience — Babylon.js and vanilla JavaScript — *with [@partner](https://github.com/partner)* |
+| [transcendence](https://github.com/aphonogelia/transcendence) | Full-stack real-time Pong platform — TypeScript, WebSockets, authentication, live chat — *with [@partner](https://github.com/partner)* |
+| [webserv](https://github.com/aphonogelia/webserv) | HTTP/1.1 server built from scratch in C++ — GET, POST, DELETE, CGI, config parsing — *with [@partner](https://github.com/partner)* |
+| [inception](https://github.com/aphonogelia/inception) | Containerized infrastructure — NGINX reverse proxy, WordPress, MariaDB, Redis, all over TLS |
+| [bubar](https://github.com/aphonogelia/bubar) | Immersive 3D web experience — Babylon.js and vanilla JavaScript — *with [@partner](https://github.com/partner)* |
 
 ---
 
@@ -22,20 +22,20 @@ I'm interested in roles at the intersection of **backend engineering**, **data i
 ### Systems & Concurrency
 | Project | What I built |
 |---|---|
-| [minishell](https://github.com/htharrau/minishell) | POSIX shell — lexer, parser, pipes, redirections, builtins — *with [@partner](https://github.com/partner)* |
-| [philosophers](https://github.com/htharrau/philosophers) | Dining philosophers — mutex & thread synchronization |
-| [push_swap](https://github.com/htharrau/push_swap) | Stack-sorting algorithm with minimal instruction count |
+| [minishell](https://github.com/aphonogelia/minishell) | POSIX shell — lexer, parser, pipes, redirections, builtins — *with [@partner](https://github.com/partner)* |
+| [philosophers](https://github.com/aphonogelia/philosophers) | Dining philosophers — mutex & thread synchronization |
+| [push_swap](https://github.com/aphonogelia/push_swap) | Stack-sorting algorithm with minimal instruction count |
 
 ### Graphics
 | Project | What I built |
 |---|---|
-| [cub3d](https://github.com/htharrau/cub3d) | Raycasting engine (Wolfenstein-style) in C |
-| [fdf](https://github.com/htharrau/fdf) | 3D wireframe renderer in C with MiniLibX |
+| [cub3d](https://github.com/aphonogelia/cub3d) | Raycasting engine (Wolfenstein-style) in C |
+| [fdf](https://github.com/aphonogelia/fdf) | 3D wireframe renderer in C with MiniLibX |
 
 ### C++ (OOP & Templates)
 | Project | What I built |
 |---|---|
-| [cpp-modules](https://github.com/htharrau/cpp-modules) | OOP, polymorphism, templates, STL, exceptions — modules 00 to 08 |
+| [cpp-modules](https://github.com/aphonogelia/cpp-modules) | OOP, polymorphism, templates, STL, exceptions — modules 00 to 08 |
 
 > Networking foundations (TCP/IP, subnetting) and server administration (Debian hardening, LVM) covered in non-uploadable assessments.
 
