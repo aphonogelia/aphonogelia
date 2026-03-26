@@ -10,10 +10,9 @@ I'm interested in roles at the intersection of **backend engineering**, **data i
 
 | Project | What I built |
 |---|---|
-| [transcendence](https://github.com/aphonogelia/transcendence) | Full-stack real-time Pong platform — TypeScript, WebSockets, authentication, live chat — *with [@partner](https://github.com/partner)* |
-| [webserv](https://github.com/aphonogelia/webserv) | HTTP/1.1 server built from scratch in C++ — GET, POST, DELETE, CGI, config parsing — *with [@partner](https://github.com/partner)* |
+| [transcendence](https://github.com/Canteen43/ft_transcendence)) | Full-stack real-time Pong platform — TypeScript, WebSockets, authentication, live chat |
+| [webserv]([https://github.com/can/webserv](https://github.com/tesla33io/webserv)) | HTTP/1.1 server built from scratch in C++ — GET, POST, DELETE, CGI, config parsing |
 | [inception](https://github.com/aphonogelia/inception) | Containerized infrastructure — NGINX reverse proxy, WordPress, MariaDB, Redis, all over TLS |
-| [bubar](https://github.com/aphonogelia/bubar) | Immersive 3D web experience — Babylon.js and vanilla JavaScript — *with [@partner](https://github.com/Rufussed)* |
 
 ---
 
