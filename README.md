@@ -1,7 +1,6 @@
-# Hi, I'm Helene <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/d033e12c-3bb8-474b-8c9a-5b632aa8300f" />
+# Hi, I'm Hind 🪽
 
-
-Biostatistician and former team lead with 5 years in clinical research (trials, epidemiology, genetics), now adding systems programming and full-stack engineering to the mix via **42 Berlin**.
+Statistician by training, engineer by choice. Background in data analysis and life sciences research — now going deep on systems programming and full-stack development at **42 Berlin**.
 
 I'm interested in roles at the intersection of **backend engineering**, **data infrastructure**, and **systems design** — where rigorous thinking and low-level performance both matter.
 
@@ -12,47 +11,55 @@ I'm interested in roles at the intersection of **backend engineering**, **data i
 ### Systems & Concurrency
 | Project | What I built |
 |---|---|
-| [minishell](./42-minishell) | POSIX shell with parsing, pipes, and redirections |
-| [Philosophers](./42-philosophers) | Dining philosophers — mutex & thread synchronization |
-| [push_swap](./42-push_swap) | Stack-sorting algorithm with minimal instruction count |
+| [42-minishell](https://github.com/htharrau/42-minishell) | POSIX shell with parsing, pipes, and redirections — *with [@partner](https://github.com/partner)* |
+| [42-philosophers](https://github.com/htharrau/42-philosophers) | Dining philosophers — mutex & thread synchronization |
+| [42-push_swap](https://github.com/htharrau/42-push_swap) | Stack-sorting algorithm with minimal instruction count |
 
 ### Networking & Web
 | Project | What I built |
 |---|---|
-| [webserv](./42-webserv) | HTTP/1.1 server in C++ — GET, POST, DELETE, CGI |
-| [Inception](./42-inception) | Docker infrastructure — NGINX, WordPress, MariaDB, Redis |
+| [42-webserv](https://github.com/htharrau/42-webserv) | HTTP/1.1 server in C++ — GET, POST, DELETE, CGI — *with [@partner](https://github.com/partner)* |
+| [42-inception](https://github.com/htharrau/42-inception) | Docker infrastructure — NGINX, WordPress, MariaDB, Redis |
 
 > Networking foundations (TCP/IP, subnetting) and server administration (Debian hardening, LVM) covered in non-uploadable assessments.
 
 ### Graphics
 | Project | What I built |
 |---|---|
-| [FdF](./42-fdf) | 3D wireframe renderer in C with MiniLibX |
-| [cub3d](./42-cub3d) | Raycasting engine (Wolfenstein-style) in C |
+| [42-fdf](https://github.com/htharrau/42-fdf) | 3D wireframe renderer in C with MiniLibX |
+| [42-cub3d](https://github.com/htharrau/42-cub3d) | Raycasting engine (Wolfenstein-style) in C |
 
 ### C++ (OOP & Templates)
 | Project | What I built |
 |---|---|
-| [CPP Modules 00–08](./cpp-modules) | OOP, polymorphism, templates, STL, exceptions |
+| [cpp-modules](https://github.com/htharrau/cpp-modules) | OOP, polymorphism, templates, STL, exceptions |
 
 ### Full Stack
 | Project | What I built |
 |---|---|
-| [ft_transcendence](./fullstack-transcendence) | Real-time Pong + social platform in TypeScript |
+| [fullstack-transcendence](https://github.com/htharrau/fullstack-transcendence) | Real-time Pong + social platform in TypeScript — *with [@partner](https://github.com/partner)* |
+
+---
+
+## Other Projects
+
+| Project | What I built |
+|---|---|
+| [babylon-project](https://github.com/htharrau/babylon-project) | Immersive 3D web experience — Babylon.js and vanilla JavaScript — *with [@partner](https://github.com/partner)* |
 
 ---
 
 ## Background
 
-5 years as a biostatistician and team lead in clinical research — designing trials, running analyses in SAS and R, and working with genetics and epidemiology data. The 42 curriculum added systems programming in C/C++, networking from sockets to HTTP, containerized infrastructure, and full-stack development.
+Statistics degree with a specialization in life sciences and biostatistics, followed by work in data analysis and clinical research. The 42 curriculum added systems programming in C/C++, networking from sockets to HTTP, containerized infrastructure, and full-stack development.
 
 ---
 
 ## Stack
 
-**Languages** — C · C++ · TypeScript · Python · R · SAS · SQL  
+**Languages** — C · C++ · TypeScript · JavaScript · Python · R · SAS · SQL  
 **Systems** — Linux · Docker · NGINX · Bash  
-**Web** — Node.js · REST APIs · WebSockets  
+**Web** — Node.js · REST APIs · WebSockets · Babylon.js  
 **Data** — Clinical trials · Biostatistics · Statistical modeling · Relational databases
 
 ---
