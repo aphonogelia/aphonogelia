@@ -1,4 +1,5 @@
-# Hi, I'm Hind 👋
+# Hi, I'm Helene <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/d033e12c-3bb8-474b-8c9a-5b632aa8300f" />
+
 
 Biostatistician and former team lead with 5 years in clinical research (trials, epidemiology, genetics), now adding systems programming and full-stack engineering to the mix via **42 Berlin**.
 
