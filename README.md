@@ -35,7 +35,7 @@ I'm interested in roles at the intersection of **backend engineering**, **data i
 ### C++ (OOP & Templates)
 | Project | What I built |
 |---|---|
-| [cpp-modules](https://github.com/aphonogelia/cpp-modules) | OOP, polymorphism, templates, STL, exceptions — modules 00 to 08 |
+| [cpp-modules](https://github.com/aphonogelia/cpp-modules) | OOP, polymorphism, templates, STL, exceptions — modules 00 to 09 |
 
 > Networking foundations (TCP/IP, subnetting) and server administration (Debian hardening, LVM) covered in non-uploadable assessments.
 
