@@ -21,7 +21,7 @@ I'm interested in roles at the intersection of **backend engineering**, **data i
 ### Systems & Concurrency
 | Project | What I built |
 |---|---|
-| [minishell](https://github.com/aphonogelia/minishell) | POSIX shell — lexer, parser, pipes, redirections, builtins — *with [@partner](https://github.com/partner)* |
+| [minishell](https://github.com/aphonogelia/minishell) | POSIX shell — lexer, parser, pipes, redirections, builtins — *with [@haroldrf](https://github.com/haroldrf)* |
 | [philosophers](https://github.com/aphonogelia/philosophers) | Dining philosophers — mutex & thread synchronization |
 | [push_swap](https://github.com/aphonogelia/push_swap) | Stack-sorting algorithm with minimal instruction count |
 
