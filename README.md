@@ -28,6 +28,7 @@ Statistics background, now focused on systems programming and full-stack develop
 > Networking foundations (TCP/IP, subnetting) and server administration (Debian hardening, LVM) covered in non-uploadable assessments.
 ---
 ## Background
+---
 Statistics degree with a specialization in life sciences and biostatistics, followed by work in data analysis and clinical research. The 42 curriculum added systems programming in C/C++, networking from sockets to HTTP, containerized infrastructure, and full-stack development. Side projects bridge the two: [BiasScraper](https://github.com/aphonogelia/biasscraper) is a end-to-end text analysis pipeline examining gender framing in sports media — scraping, API integration, keyword detection, and hypothesis testing, with a null result carefully interpreted.
 ---
 ## Stack
