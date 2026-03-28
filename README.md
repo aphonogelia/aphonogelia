@@ -9,7 +9,8 @@ Statistics background, now focused on systems programming and full-stack develop
 | [transcendence](https://github.com/Canteen43/ft_transcendence) | Full-stack real-time Pong platform — TypeScript, WebSockets, authentication, live chat |
 | [webserv](https://github.com/tesla33io/webserv) | HTTP/1.1 server built from scratch in C++ — GET, POST, DELETE, CGI, config parsing |
 | [inception](https://github.com/aphonogelia/inception) | Containerized infrastructure — NGINX reverse proxy, WordPress, MariaDB, Redis, all over TLS |
-| [BiasScraper](https://github.com/aphonogelia/biasscraper) | Reproducible pipeline to test gender framing in Winter Olympics media — Wikipedia scraper, Guardian API, keyword analysis, hypothesis testing |
+| [BiasScraper](https://github.com/aphonogelia/biasscraper) | Reproducible pipeline to test gender framing in Winter Olympics media — Wikipedia scraper, Guardian API, keyword analysis, hypothesis testing. BiasScraper is an end-to-end text analysis pipeline examining gender framing in sports media — scraping, API integration, keyword detection, and hypothesis testing, with a null result carefully interpreted. It sits at the overlap between the two sides of my background.
+ |
 ---
 ## 42 Berlin — Core Curriculum
 ### Systems & Concurrency
@@ -28,10 +29,6 @@ Statistics background, now focused on systems programming and full-stack develop
 |---|---|
 | [cpp-modules](https://github.com/aphonogelia/cpp-modules) | OOP, polymorphism, templates, STL, exceptions — modules 00 to 09 |
 > Networking foundations (TCP/IP, subnetting) and server administration (Debian hardening, LVM) covered in non-uploadable assessments.
----
-## Background
-Statistics degree with a specialization in life sciences and biostatistics, followed by work in data analysis and clinical research. The 42 curriculum added systems programming in C/C++, networking from sockets to HTTP, containerized infrastructure, and full-stack development. Side projects bridge the two: [BiasScraper](https://github.com/aphonogelia/biasscraper) is an end-to-end text analysis pipeline examining gender framing in sports media — scraping, API integration, keyword detection, and hypothesis testing, with a null result carefully interpreted.
-
 ---
 
 ## Stack
