@@ -9,8 +9,7 @@ Statistics background, now focused on systems programming and full-stack develop
 | [transcendence](https://github.com/Canteen43/ft_transcendence) | Full-stack real-time Pong platform — TypeScript, WebSockets, authentication, live chat |
 | [webserv](https://github.com/tesla33io/webserv) | HTTP/1.1 server built from scratch in C++ — GET, POST, DELETE, CGI, config parsing |
 | [inception](https://github.com/aphonogelia/inception) | Containerized infrastructure — NGINX reverse proxy, WordPress, MariaDB, Redis, all over TLS |
-| [BiasScraper](https://github.com/aphonogelia/biasscraper) | Reproducible pipeline to test gender framing in Winter Olympics media — Wikipedia scraper, Guardian API, keyword analysis, hypothesis testing. BiasScraper is an end-to-end text analysis pipeline examining gender framing in sports media — scraping, API integration, keyword detection, and hypothesis testing, with a null result carefully interpreted. It sits at the overlap between the two sides of my background.
- |
+| [BiasScraper](https://github.com/aphonogelia/biasscraper) | Reproducible pipeline to test gender framing in Winter Olympics media — Wikipedia scraper, Guardian API, keyword analysis, hypothesis testing. BiasScraper is an end-to-end text analysis pipeline examining gender framing in sports media — scraping, API integration, keyword detection, and hypothesis testing, with a null result carefully interpreted. It sits at the overlap between the two sides of my background.|
 ---
 ## 42 Berlin — Core Curriculum
 ### Systems & Concurrency
