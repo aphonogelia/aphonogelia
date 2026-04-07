@@ -1,5 +1,6 @@
-# Hi, I'm Helene 🪽
-Statistics background, now focused on systems programming and full-stack development at 42 Berlin. Looking for roles in backend, data infrastructure, or full-stack engineering.
+# 🎐 Hi, I'm Helene
+I come from statistics and ended up in systems programming. At 42 Berlin I've built HTTP servers, container infrastructure, and a real-time web platform from scratch. Still very much interested in data, pipelines, and open science.  
+Based in Berlin, open to work.
 
 ---
 
