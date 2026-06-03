@@ -12,7 +12,12 @@ Based in Berlin, open to work.
 | [inception](https://github.com/aphonogelia/inception) | Containerized infrastructure — NGINX reverse proxy, WordPress, MariaDB, Redis, all over TLS |
 | [BiasScraper](https://github.com/aphonogelia/biasscraper) | Reproducible pipeline to test gender framing in Winter Olympics media — Wikipedia scraper, Guardian API, keyword analysis, hypothesis testing. BiasScraper is an end-to-end text analysis pipeline examining gender framing in sports media — scraping, API integration, keyword detection, and hypothesis testing, with a null result carefully interpreted. It sits at the overlap between the two sides of my background.|
 ---
-## 42 Berlin — Core Curriculum
+## 42 Berlin Curriculum
+### Mobile
+| Project | What I built |
+|---|---|
+| [Weather](https://github.com/aphonogelia/weather) | iOS/Android weather app — Expo, React Native, TypeScript, geolocation, chart visualizations |
+| [Journaling](https://github.com/aphonogelia/journaling) | Full-featured journaling app — database, authentication, real production patterns |
 ### Systems & Concurrency
 | Project | What I built |
 |---|---|
