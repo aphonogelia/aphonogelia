@@ -16,8 +16,8 @@ Based in Berlin, open to work.
 ### Mobile
 | Project | What I built |
 |---|---|
-| [Weather](https://github.com/aphonogelia/weather) | iOS/Android weather app — Expo, React Native, TypeScript, geolocation, chart visualizations |
-| [Journaling](https://github.com/aphonogelia/journaling) | Full-featured journaling app — database, authentication, real production patterns |
+| [weather](https://github.com/aphonogelia/WeatherApp) | iOS/Android weather app — Expo, React Native, TypeScript, geolocation, chart visualizations |
+| [journaling](https://github.com/aphonogelia/journaling) | Full-featured journaling app — database, authentication, real production patterns |
 ### Systems & Concurrency
 | Project | What I built |
 |---|---|
